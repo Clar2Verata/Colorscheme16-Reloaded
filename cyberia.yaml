@@ -3,19 +3,19 @@ author: "Clair2Vetata (https://github.com/Clar2Verata)"
 
 # A cool theme based on the Sewerslvt song "Cyberia lyr1" and the Overwatch map
 #
-base00: "83A598" #80bfae | Artic Foam #background
-base01: "BFFFF1" #d0e2e6 | Pale Smoke
-base02: "EBDBB2" #879da2 | Humpback
-base03: "B9B8A4" #657b83 | Dirty Ice
-base04: "83A598" #7f78a2 | Seal
-base05: "404945" #4c224e | Chum #foreground
-base06: "622451" #284771 | Rich Liquid
-base07: "83A598" #4151bf | Deuterium
-base08: "3E2434" #181D31 | 20,000 Leagues
-base09: "FDC8C8" #c8fdd7 | Winter Gem
-base0A: "D3869B" #b47 |  | Anastasia
-base0B: "53694C" #694c60 | Walrus
-base0C: "83A598" #b480DD | Exotic Fish
-base0D: "83A598" #dfb2eb | Lavender Pale
-base0E: "9FA278" #176f7b | TealTeamSix
-base0F: "83A598" #abe9ff | Polar Sky
+base00: "80bfae" #80bfae | Artic Foam #background
+base01: "d0e2e6" #d0e2e6 | Pale Smoke
+base02: "879da2" #879da2 | Humpback
+base03: "657b83" #657b83 | Dirty Ice
+base04: "7f78a2" #7f78a2 | Seal
+base05: "4c224e" #4c224e | Chum #foreground
+base06: "284771" #284771 | Rich Liquid
+base07: "4151bf" #4151bf | Deuterium
+base08: "181D31" #181D31 | 20,000 Leagues
+base09: "c8fdd7" #c8fdd7 | Winter Gem
+base0A: "b47" #b47 |  | Anastasia
+base0B: "694c60" #694c60 | Walrus
+base0C: "b480DD" #b480DD | Exotic Fish
+base0D: "dfb2eb" #dfb2eb | Lavender Pale
+base0E: "176f7b" #176f7b | TealTeamSix
+base0F: "abe9ff" #abe9ff | Polar Sky
