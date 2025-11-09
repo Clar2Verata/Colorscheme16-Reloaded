@@ -5,16 +5,16 @@ author: "Clair2Vetata (https://github.com/Clar2Verata)"
 #
 base00: "176f7b" #176f7b | TealTeamSix #background
 base01: "abe9ff" #abe9ff | Polar Sky
-base02: "c8fdd7" #c8fdd7 | Winter Gem
+base02: "d0e2e6" #d0e2e6 | Pale Smoke
 base03: "657b83" #657b83 | Dirty Ice
 base04: "7f78a2" #7f78a2 | Seal
 base05: "181D31" #181D31 | 20,000 Leagues #foreground
-base06: "284771" #284771 | Rich Liquid
-base07: "d0e2e6" #d0e2e6 | Pale Smoke
+base06: "4151bf" #4151bf | Deuterium
+base07: "c8fdd7" #c8fdd7 | Winter Gem
 base08: "b01367" #b01367 | Anastasia 
 base09: "dfb2eb" #dfb2eb | Lavender Pale
-base0A: "4151bf" #4151bf | Deuterium
-base0B: "4c224e" #4c224e | Chum
+base0A: "4c224e" #4c224e | Chum
+base0B: "284771" #284771 | Rich Liquid
 base0C: "80bfae" #80bfae | Artic Foam
 base0D: "879da2" #879da2 | Humpback
 base0E: "b480DD" #b480DD | Exotic Fish
