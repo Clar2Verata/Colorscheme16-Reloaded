@@ -4,17 +4,17 @@ author: "Clair2Vetata (https://github.com/Clar2Verata)"
 # A cool theme based on the Sewerslvt song "Cyberia lyr1" and the Overwatch map
 #
 base00: "176f7b" #176f7b | TealTeamSix #background
-base01: "abe9ff" #abe9ff | Polar Sky
+base01: "c8fdd7" #c8fdd7 | Winter Gem
 base02: "d0e2e6" #d0e2e6 | Pale Smoke
-base03: "657b83" #657b83 | Dirty Ice
+base03: "284771" #284771 | Rich Liquid
 base04: "7f78a2" #7f78a2 | Seal
 base05: "80bfae" #80bfae | Artic Foam #foreground
 base06: "4151bf" #4151bf | Deuterium
-base07: "c8fdd7" #c8fdd7 | Winter Gem
+base07: "abe9ff" #abe9ff | Polar Sky
 base08: "b01367" #b01367 | Anastasia 
 base09: "dfb2eb" #dfb2eb | Lavender Pale
 base0A: "4c224e" #4c224e | Chum
-base0B: "284771" #284771 | Rich Liquid
+base0B: "657b83" #657b83 | Dirty Ice
 base0C: "b480DD" #b480DD | Exotic Fish
 base0D: "879da2" #879da2 | Humpback
 base0E: "181D31" #181D31 | 20,000 Leagues
