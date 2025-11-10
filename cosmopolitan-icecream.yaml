@@ -5,8 +5,8 @@ author: "Clair2Vetata (https://github.com/Clar2Verata)"
 # its flavors are Raspberry(#622451) MatchaTea(#8EC07C) & FrenchVanilla(#EBDBB2)
 # Cosmopolitan serves to emulate the tones and hues of retro computing
 
-base00: "3E2434" #3E2434 | Midnight #background
-base01: "622451" #622451 | Plumbus
+base00: "622451" #622451 | Plumbus #background
+base01: "3E2434" #3E2434 | Midnight
 base02: "404945" #404945 | Mute
 base03: "53694C" #53694C | Matcha #Comments
 base04: "9FA278" #9FA278 | Paleo
