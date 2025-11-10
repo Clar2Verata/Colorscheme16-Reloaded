@@ -6,9 +6,9 @@ author: "Clair2Vetata (https://github.com/Clar2Verata)"
 # Cosmopolitan serves to emulate the tones and hues of retro computing
 
 base00: "3E2434" #3E2434 | Midnight #background
-base01: "404945" #404945 | Mute
+base01: "622451" #622451 | Plumbus
 base02: "53694C" #53694C | Matcha
-base03: "622451" #622451 | Plumbus #Comments
+base03: "404945" #404945 | Mute #Comments
 base04: "9FA278" #9FA278 | Paleo
 base05: "B9B8A4" #B9B8A4 | Drab #Foreground
 base06: "EBDBB2" #EBDBB2 | Eclair
